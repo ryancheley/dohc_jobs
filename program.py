@@ -17,8 +17,8 @@ content = driver.page_source
 soup = BeautifulSoup(content, "lxml")
 
 table = soup.find('table', class_='table table-striped')
-
 df = pd.read_html(table.prettify())[0]
 df.drop(df.tail(1).index,inplace=True)
-df.to_csv('jobs.csv')
+if df.shape[0] > 0:
+    df.to_csv('jobs.csv')
 
