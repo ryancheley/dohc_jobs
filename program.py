@@ -7,7 +7,7 @@ import pandas as pd
 chrome_options = Options()  
 chrome_options.add_argument("--headless")
 
-driver = webdriver.Chrome(chrome_options=chrome_options)
+driver = webdriver.Chrome(options=chrome_options)
 
 url = 'https://careers.mydohc.com/spa/listing'
 
