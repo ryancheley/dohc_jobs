@@ -21,5 +21,5 @@ df = pd.read_html(table.prettify())[0]
 df.drop(df.tail(1).index,inplace=True)
 df.sort_values(['Title','Department','Location','Status'])
 if df.shape[0] > 0:
-    df.to_csv('jobs.csv')
+    df.to_csv('jobs.csv', index=False)
 
