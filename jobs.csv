@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Title,Department,Location,Status
 Business System Developer,Finance,Palm Desert,Full-Time
 Appeals and Grievances Nurse Per Diem,Quality and Compliance,"Palm Springs, CA",Per Diem
@@ -54,3 +55,61 @@ Special Project Coordinator,Clinical Services,"Palm Springs, CA",Full-Time
 "Specialist, Finance Recovery",Finance,"Palm Desert, California",Full-Time
 "Supervisor, Finance Recovery - PD",Finance,"Palm Desert, CA",Full-Time
 Unit Coordinator Per Diem,Immediate Care,"Palm Springs, California",Per Diem
+=======
+,Title,Department,Location,Status
+0,Business System Developer,Finance,Palm Desert,Full-Time
+1,Appeals and Grievances Nurse Per Diem,Quality and Compliance,"Palm Springs, CA",Per Diem
+2,Case Manager I Per Diem-YV,Social Services,"Yucca Valley, CA",Per Diem
+3,Certified Home Health Aide,Home Health,"Palm Springs, CA",Full-Time
+4,Certified Medical Assistant,Cardiology,"Palm Springs, California",Per Diem
+5,Certified Medical Assistant - PS,Primary Care,"Palm Springs, CA",Full-Time
+6,Certified Medical Assistant Per Diem - YV,Cardiology,"Yucca Valley, CA",Per Diem
+7,Certified Medical Assistant-PS,Outreach Services,"Palm Springs, CA",Full-Time
+8,Certified Medical Assistant-YV,Primary Care,"Yucca Valley, CA",Full-Time
+9,Claims Examiner I,Claims,"Palm Desert, CA",Full-Time
+10,Clinical Pharmacist,Medication Management,"Palm Springs, California",Full-Time
+11,Clinical Pharmacist,Medication Management,"Palm Springs, CA",Full-Time
+12,Coder I,Coding,"Palm Springs, California",Full-Time
+13,Coder I,Coding,"Palm Springs, California",Full-Time
+14,Coder II,Coding,"Palm Springs, California",Full-Time
+15,Coder II,Coding,"Palm Springs, California",Full-Time
+16,Contract Specialist,Network Administration,"Palm Springs, California",Full-Time
+17,Developer Programmer,Information Services,"Palm Springs, California",Full-Time
+18,Discharge Planning Coordinator,Case Management,"Palm Springs, CA",Full-Time
+19,"Educator, RN Clinical Quality",Home Health,"Palm Springs, CA",Full-Time
+20,Executive Administrative Assistant,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
+21,Health Plan Auditor II,Eligibility,"Palm Desert, California",Full-Time
+22,HIM Coordinator II,Health Information Services,"Palm Springs, CA",Full-Time
+23,HIM Technician,Health Information Services,"Palm Springs, CA",Full-Time
+24,HIM Technician,Health Information Services,"Palm Springs, California",Full-Time
+25,IC Clinical Manager - Indio,Immediate Care,"Indio, CA",Full-Time
+26,IC Clinical Manager - PD,Immediate Care,"Palm Desert, CA",Full-Time
+27,IC Clinical Manager - PD,Immediate Care,"Palm Desert, CA",Full-Time
+28,Licensed Vocational Nurse,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
+29,Licensed Vocational Nurse Per Diem - PS,Immediate Care,"Palm Springs, CA",Per Diem
+30,"LVN, Case Manager SNF",Care Management,"Palm Springs, CA",Full-Time
+31,"LVN, Intense Case Manager",Social Services,"Palm Springs, CA",Full-Time
+32,"Manager, Social Services",Social Services,"Palm Springs, CA",Full-Time
+33,NextGen Software Developer II,NextGen,"Palm Springs, CA",Full-Time
+34,Palliative Care Physician,Family Hospice Care,"Palm Springs, CA",Full-Time
+35,Patient Transporter,Patient Services,"Palm Springs, California",Temporary Full-Time
+36,Pharmacy Technician,Medication Management,"Palm Springs, California",Full-Time
+37,Physical Therapist Per Diem,Home Health,"Palm Springs, California",Per Diem
+38,Physical Therapist Per Diem,Home Health,"Palm Springs, California",Per Diem
+39,Project Specialist Data Analyst,Home Health,"Palm Springs, California",Full-Time
+40,Provider Relations Coordinator II,Provider Relations,"Palm Springs, California",Full-Time
+41,Referral Distributor,Referrals,"Palm Springs, California",Full-Time
+42,RN Admission- 12 hour weekends,Home Health,"Palm Springs, California",Full-Time
+43,RN Admissions Visits,Family Hospice Care,"Palm Springs, CA",Full-Time
+44,RN Case Manager,Case Management,"Palm Springs, CA",Full-Time
+45,RN Case Manager,Family Hospice Care,"Palm Springs, California",Full-Time
+46,RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
+47,RN Case Manager,Home Health,"Palm Springs, California",Full-Time
+48,RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
+49,RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
+50,"Senior Director, Prior Auth",Quality Management,"Palm Springs, California",Full-Time
+51,Special Project Coordinator,Clinical Services,"Palm Springs, CA",Full-Time
+52,"Specialist, Finance Recovery",Finance,"Palm Desert, California",Full-Time
+53,"Supervisor, Finance Recovery - PD",Finance,"Palm Desert, CA",Full-Time
+54,Unit Coordinator Per Diem,Immediate Care,"Palm Springs, California",Per Diem
+>>>>>>> 3d04b08e0cdcac50d146c6767b404a40003bcd32
