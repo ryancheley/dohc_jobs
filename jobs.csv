@@ -1,6 +1,6 @@
 Title,Department,Location,Status
 Case Manager I Per Diem-YV,Social Services,"Yucca Valley, CA",Per Diem
-Certified Home Health Aide,Home Health,"Palm Springs, CA",Full-Time
+Certified Home Health Aide (CHHA),Home Health,"Palm Springs, CA",Full-Time
 Certified Medical Assistant (Float),Primary Care,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant - PS,Primary Care,"Palm Springs, CA",Full-Time
 Certified Medical Assistant Per Diem - YV,Cardiology,"Yucca Valley, CA",Per Diem
@@ -16,9 +16,7 @@ Coder II,Coding,"Palm Springs, California",Full-Time
 Contract Specialist,Network Administration,"Palm Springs, California",Full-Time
 Developer Programmer,Information Services,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, CA",Full-Time
-"Educator, RN Clinical Quality",Home Health,"Palm Springs, CA",Full-Time
 Executive Administrative Assistant,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
-Health Plan Auditor I,Eligibility,"Palm Desert, California",Full-Time
 Help Desk Support,Information Services,"Palm Springs, California",Full-Time
 IC Clinical Manager - Indio,Immediate Care,"Indio, CA",Full-Time
 IC Clinical Manager - PD,Immediate Care,"Palm Desert, CA",Full-Time
@@ -27,6 +25,7 @@ Licensed Vocational Nurse,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
 "LVN, Case Manager SNF",Care Management,"Palm Springs, CA",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, CA",Full-Time
 "Manager, Social Services",Social Services,"Palm Springs, CA",Full-Time
+Medication Referral Coordinator,Medication Management,"Palm Springs, California",Full-Time
 NextGen Software Developer II,NextGen,"Palm Springs, CA",Full-Time
 Palliative Care Physician,Family Hospice Care,"Palm Springs, CA",Full-Time
 Patient Transporter,Patient Services,"Palm Springs, California",Temporary Full-Time
@@ -38,12 +37,15 @@ Provider Relations Coordinator II,Provider Relations,"Palm Springs, California",
 Receptionist Scheduler,Cardiology,"Palm Springs, California",Full-Time
 Referral Distributor,Referrals,"Palm Springs, California",Full-Time
 Registered Nurse,Immediate Care,"Palm Springs, California",Per Diem
+RN Admission (Weekends),Home Health,"Palm Springs, California",Full-Time
 RN Admission- 12 hour weekends,Home Health,"Palm Springs, California",Full-Time
 RN Admissions Visits,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Case Management,"Palm Springs, CA",Full-Time
 RN Case Manager,Family Hospice Care,"Palm Springs, California",Full-Time
 RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
+RN Clinical Educator,Home Health,"Palm Springs, CA",Full-Time
+RN Infusion Per Diem,Infusion/Injection Clinic,"Palm Springs, California",Per Diem
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
 "Senior Director, Prior Auth",Quality Management,"Palm Springs, California",Full-Time
