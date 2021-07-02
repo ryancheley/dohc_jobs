@@ -1,11 +1,12 @@
 Title,Department,Location,Status
-Case Manager Assistant ll,Case Management,"Palm Springs, California",Full-Time
 Case Manager I Per Diem-YV,Social Services,"Yucca Valley, CA",Per Diem
 Certified Home Health Aide (CHHA),Home Health,"Palm Springs, CA",Full-Time
+Certified Home Health Aide (CHHA),Family Hospice Care,"Palm Springs, California",Full-Time
 Certified Medical Assistant,Primary Care,Bermuda Dunes,Full-Time
 Certified Medical Assistant (Float),Primary Care,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant - PS,Primary Care,"Palm Springs, CA",Full-Time
 Certified Medical Assistant Per Diem - YV,Cardiology,"Yucca Valley, CA",Per Diem
+Certified Medical Assistant- Per Diem,Immediate Care,"Palm Springs, California",Per Diem
 Certified Medical Assistant-Per Diem,Priority Care,"Palm Springs, California",Per Diem
 Certified Medical Assistant-PS,Outreach Services,"Palm Springs, CA",Full-Time
 Certified Medical Assistant-YV,Primary Care,"Yucca Valley, CA",Full-Time
@@ -24,7 +25,6 @@ HIM Technician,Health Information Services,"Palm Springs, CA",Full-Time
 IC Clinical Manager - Indio,Immediate Care,"Indio, CA",Full-Time
 IC Clinical Manager - PD,Immediate Care,"Palm Desert, CA",Full-Time
 IC Clinical Manager - PD,Immediate Care,"Palm Desert, CA",Full-Time
-Intake Lead,Home Health,"Palm Springs, California",Full-Time
 Licensed Vocational Nurse,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
 "LVN, Case Manager SNF",Care Management,"Palm Springs, CA",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, CA",Full-Time
@@ -44,8 +44,9 @@ RN Case Manager,Case Management,"Palm Springs, CA",Full-Time
 RN Case Manager,Family Hospice Care,"Palm Springs, California",Full-Time
 RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
+RN Case Manager,Case Management,"Palm Springs, California",Full-Time
+RN Case Manager,Case Management,"Palm Springs, California",Full-Time
 RN Clinical Educator,Home Health,"Palm Springs, CA",Full-Time
-RN Infusion Per Diem,Infusion/Injection Clinic,"Palm Springs, California",Per Diem
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
 "Senior Director, Prior Auth",Quality Management,"Palm Springs, California",Full-Time
