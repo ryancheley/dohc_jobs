@@ -1,4 +1,5 @@
 Title,Department,Location,Status
+Business System Developer,Finance,Palm Desert,Full-Time
 Admissions Physical Therapist,Home Health,"Palm Springs, California",Full-Time
 Case Manager I Per Diem-YV,Social Services,"Yucca Valley, CA",Per Diem
 Certified Home Health Aide,Home Health,"Palm Springs, CA",Full-Time
@@ -12,8 +13,8 @@ Certified Medical Assistant-Per Diem,Priority Care,"Palm Springs, California",Pe
 Certified Medical Assistant-PS,Outreach Services,"Palm Springs, CA",Full-Time
 Certified Medical Assistant-YV,Primary Care,"Yucca Valley, CA",Full-Time
 Claims Examiner I,Claims,"Palm Desert, CA",Full-Time
-Clinical Pharmacist,Medication Management,"Palm Springs, CA",Full-Time
 Clinical Pharmacist,Medication Management,"Palm Springs, California",Full-Time
+Clinical Pharmacist,Medication Management,"Palm Springs, CA",Full-Time
 Coder I,Coding,"Palm Springs, California",Full-Time
 Coder I,Coding,"Palm Springs, California",Full-Time
 Coder II,Coding,"Palm Springs, California",Full-Time
@@ -42,11 +43,11 @@ Receptionist Scheduler,Cardiology,"Palm Springs, California",Full-Time
 Referral Distributor,Referrals,"Palm Springs, California",Full-Time
 RN Admissions Visits,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Case Management,"Palm Springs, CA",Full-Time
-RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Family Hospice Care,"Palm Springs, California",Full-Time
+RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
+RN Case Manager,Case Management,"Palm Springs, California",Full-Time
+RN Case Manager,Case Management,"Palm Springs, California",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
-RN Case Manager,Case Management,"Palm Springs, California",Full-Time
-RN Case Manager,Case Management,"Palm Springs, California",Full-Time
 RN Clinical Educator,Home Health,"Palm Springs, CA",Full-Time
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
