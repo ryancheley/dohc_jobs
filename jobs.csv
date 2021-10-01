@@ -34,9 +34,9 @@ HIM Technician,Health Information Services,"Palm Springs, CA",Full-Time
 Licensed Vocational Nurse (IC-YV),Immediate Care,"Yucca Valley, California",Full-Time
 Licensed Vocational Nurse Per Diem (PS-IC),Immediate Care,"Palm Springs, California",Per Diem
 "Licensed Vocational Nurse, Palliative",DOHC-Palliative Care,"Palm Springs, CA",Full-Time
-"LVN Resource (Weekends), Home Health",Home Health,"Palm Springs, California",Per Diem
+"LVN Resource (Weekends), Home Health - Per Diem",Home Health,"Palm Springs, California",Per Diem
 "LVN Resource, Home Health",Home Health,"Palm Springs, California",Full-Time
-LVN Triage,Family Hospice Care,"Palm Springs, California",Full-Time
+"LVN Triage, FHC",Family Hospice Care,"Palm Springs, California",Full-Time
 "LVN, Case Manager SNF",Care Management,"Palm Springs, CA",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, California",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, California",Full-Time
@@ -62,15 +62,14 @@ RN Case Manager,Home Health,"Palm Springs, California",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
-RN Case Manager,Family Hospice Care,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
-RN Case Manager,Home Health,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, CA",Full-Time
 RN Case Manager,DOHC-Palliative Care,"Palm Springs, CA",Full-Time
-RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
-RN Triage,Family Hospice Care,"Palm Springs, CA",Full-Time
-"RN Triage, FHC",Family Hospice Care,"Palm Springs, California",Per Diem
+"RN Case Manager, FHC",Family Hospice Care,"Palm Springs, California",Full-Time
+"RN Case Manager, Home Health",Home Health,"Palm Springs, California",Full-Time
+"RN Triage, FHC",Family Hospice Care,"Palm Springs, CA",Full-Time
+"RN Triage, FHC",Family Hospice Care,"Palm Springs, CA",Full-Time
 "Senior Director, Prior Auth",Quality Management,"Palm Springs, California",Full-Time
 SNF LVN Case Manager,Case Management,"Palm Springs, California",Full-Time
 SNP CMC Telephonic Case Manager I,Quality Management,"Palm Springs, California",Full-Time
