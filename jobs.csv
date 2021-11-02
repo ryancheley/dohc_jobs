@@ -1,5 +1,6 @@
 Title,Department,Location,Status
 Admissions Coordinator,Home Health,"Palm Springs, California",Per Diem
+Admissions Coordinator,Family Hospice Care,"Palm Springs, California",Full-Time
 "Case Manager I, Social Services",Social Services,"Palm Springs, California",Full-Time
 "Case Manager, Specialty Care",Clinical Services,"Palm Springs, California",Full-Time
 Certified Home Health Aide,Home Health,"Palm Springs, CA",Full-Time
@@ -26,7 +27,6 @@ Clinical Pharmacist,PHARXM Population Health Prescription Mgt,"Palm Springs, Cal
 "Clinical Pharmacist, PHARXM - Per Diem",PHARXM Population Health Prescription Mgt,"Palm Springs, California",Per Diem
 "Coder II, HCC",Coding,"Palm Springs, California",Full-Time
 Community Coach,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
-"Coordinator, SNF Team",Case Management,"Palm Springs, California",Full-Time
 Developer Programmer,Information Services,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
@@ -59,6 +59,7 @@ Receptionist Scheduler,Patient Services,"Indio, California",Temporary Full-Time
 "Receptionist Scheduler, TEMP (PS)",Patient Services,"Palm Springs, California",Temporary Full-Time
 Referral Coordinator,Referrals,"Palm Springs, California",Full-Time
 Referral Distributor Technician II,Referrals,"Palm Springs, California",Full-Time
+Referral Distributor Technician II,Referrals,"Palm Springs, California",Full-Time
 Registered Nurse,Immediate Care,"Palm Springs, California",Full-Time
 Registered Nurse Per Diem (YV),Immediate Care,"Yucca Valley, California",Per Diem
 Registered Nurse Per Diem (YV),Immediate Care,"Yucca Valley, California",Per Diem
@@ -82,6 +83,7 @@ RN Case Manager,Home Health,"Palm Springs, California",Full-Time
 "RN Triage, FHC",Family Hospice Care,"Palm Springs, CA",Full-Time
 "RN, Field",Home Health,"Palm Springs, California",Per Diem
 "Senior Director, Prior Auth",Quality Management,"Palm Springs, California",Full-Time
+SNF Team Coordinator,Case Management,"Palm Springs, California",Full-Time
 SNP CMC Telephonic Case Manager I,Quality Management,"Palm Springs, California",Full-Time
 SNP CMC Telephonic Case Manager I,Quality Management,"Palm Springs, California",Full-Time
 SNP CMC Telephonic Case Manager I,Quality Management,"Palm Springs, California",Full-Time
