@@ -5,16 +5,16 @@ Admissions Coordinator,Family Hospice Care,"Palm Springs, California",Full-Time
 Certified Home Health Aide,Home Health,"Palm Springs, CA",Full-Time
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
-Certified Medical Assistant,Primary Care,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant,Immediate Care,"Palm Springs, California",Full-Time
+Certified Medical Assistant,Primary Care,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant,Immediate Care,"Palm Springs, California",Per Diem
 Certified Medical Assistant,Primary Care,"Yucca Valley, California",Full-Time
 Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Primary Care,Bermuda Dunes,Full-Time
 Certified Medical Assistant (YV),Immediate Care,"Yucca Valley, California",Full-Time
 Certified Medical Assistant (PD),Specialty,"Palm Desert, California",Full-Time
-Certified Medical Assistant (PS),Immediate Care,"Palm Springs, California",Per Diem
 Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Immediate Care,"Palm Springs, California",Per Diem
 Certified Medical Assistant (RM),Specialty,"Rancho Mirage, California",Full-Time
 Certified Medical Assistant - Per Diem (PS),Outreach Services,"Palm Springs, California",Per Diem
 Certified Medical Assistant - Per Diem (PS),Priority Care,"Palm Springs, California",Per Diem
@@ -29,11 +29,8 @@ Customer Service Coordinator,Quality Management,"Palm Springs, California",Full-
 Developer Programmer,Information Services,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
-Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
-Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
-Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
-Discharge Planning Coordinator,Case Management,"Palm Springs, California",Per Diem
-Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
+Discharge Planning Coordinator (4/10 hour shifts),Case Management,"Palm Springs, California",Full-Time
+Discharge Planning Coordinator (4/10 hour shifts),Case Management,"Palm Springs, California",Per Diem
 "Examiner, Claims I",Claims,"Palm Desert, California",Full-Time
 HIM Coordinator II,Health Information Services,"Palm Springs, CA",Full-Time
 HIM Correspondence Coordinator,Health Information Services,"Palm Springs, California",Full-Time
@@ -58,8 +55,8 @@ Physical Therapist Per Diem,Home Health,"Palm Springs, California",Per Diem
 Practice Management Coordinator,NextGen,"Palm Springs, California",Full-Time
 Receptionist,Immediate Care,"Palm Springs, California",Per Diem
 Receptionist Operator,Patient Services,"Palm Springs, California",Full-Time
-Receptionist Scheduler,Primary Care,"Yucca Valley, California",Temporary Full-Time
 Receptionist Scheduler,Patient Services,"Indio, California",Temporary Full-Time
+Receptionist Scheduler,Primary Care,"Yucca Valley, California",Temporary Full-Time
 "Receptionist Scheduler, TEMP (PS)",Patient Services,"Palm Springs, California",Temporary Full-Time
 Referral Distributor Technician II,Referrals,"Palm Springs, California",Full-Time
 Referral Distributor Technician II,Referrals,"Palm Springs, California",Full-Time
@@ -69,17 +66,13 @@ Registered Nurse Per Diem (YV),Immediate Care,"Yucca Valley, California",Per Die
 Regulatory & Quality Assurance Specialist,Clinical Research,"Palm Springs, California",Full-Time
 "Research Assistant, Clinical",Clinical Research,"Palm Springs, California",Full-Time
 "RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
+"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
+"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
+"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
 "RN Case Manager ($2,000 SIGN ON BONUS)",DOHC-Palliative Care,"Palm Springs, CA",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, CA",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
-"RN Case Manager ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
+"RN Case Manager ($2,000 SIGN ON BONUS) 4/10 hour shifts",Case Management,"Palm Springs, CA",Full-Time
 "RN Case Manager, FHC ($2,000 SIGN ON BONUS)",Family Hospice Care,"Palm Springs, California",Full-Time
-"RN Case Manager, Home Health ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
+"RN Case Manager, Home Health ($2,000 SIGN ON BONUS) 4/10 hour shifts",Home Health,"Palm Springs, California",Full-Time
 "RN Triage, FHC ($2,000 SIGN ON BONUS)",Family Hospice Care,"Palm Springs, CA",Full-Time
 "RN Triage, FHC ($2,000 SIGN ON BONUS)",Family Hospice Care,"Palm Springs, CA",Full-Time
 "RN, Field",Home Health,"Palm Springs, California",Per Diem
@@ -99,3 +92,4 @@ Support Coordinator I,Behavioral Health,"Palm Springs, California",Full-Time
 "Telehealth Case Manager ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
 Transitional Care Specialty Nurse,ACO,"Palm Springs, California",Full-Time
 Transportation Coordinator,Telephonic Case Mgmt,"Palm Springs, California",Full-Time
+Unit Coordinator,Immediate Care,"Palm Springs, California",Per Diem
