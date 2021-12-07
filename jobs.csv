@@ -1,5 +1,7 @@
 Title,Department,Location,Status
+Accounts Receivable Specialist,Billing,"Palm Desert, California",Full-Time
 Admissions Coordinator,Home Health,"Palm Springs, California",Per Diem
+Care Plan Nurse (RN),Quality Management,"Palm Springs, California",Full-Time
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Medical Assistant,Primary Care,Bermuda Dunes,Full-Time
@@ -9,6 +11,7 @@ Certified Medical Assistant,Primary Care,"Palm Springs, California",Temporary Fu
 Certified Medical Assistant,Cardiology,"Yucca Valley, California",Per Diem
 Certified Medical Assistant,Behavioral Health,"Palm Springs, California",Full-Time
 Certified Medical Assistant (YV),Immediate Care,"Yucca Valley, California",Full-Time
+Certified Medical Assistant (CMA),Immediate Care,"Palm Springs, California",Temporary Full-Time
 Certified Medical Assistant (CMA),Priority Care,"Bermuda Dunes, CA",Full-Time
 Certified Medical Assistant (CMA),Immediate Care,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PD),Specialty,"Palm Desert, California",Full-Time
@@ -37,7 +40,6 @@ Health Plan Auditor I,Eligibility,"Palm Desert, California",Full-Time
 Integrity Specialist,Claims,"Palm Desert, California",Full-Time
 Licensed Vocational Nurse Field,Home Health,"Palm Springs, California",Full-Time
 LVN,Immediate Care,"Indio, California",Full-Time
-LVN,Immediate Care,"Palm Springs, California",Full-Time
 "LVN Triage, FHC",Family Hospice Care,"Palm Springs, California",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, California",Full-Time
 "LVN, Intense Case Manager",Social Services,"Palm Springs, California",Full-Time
@@ -78,6 +80,7 @@ SNP CMC Telephonic Case Manager I,Quality Management,"Palm Springs, California",
 "Specialist, Provider Database I",Claims,"Palm Desert, California",Full-Time
 "Specialist, SNF CM Weekend",Case Management,"Palm Springs, California",Full-Time
 Support Coordinator I,Telephonic Case Mgmt,"Palm Springs, California",Full-Time
+Support Coordinator II,Billing,"Palm Desert, California",Temporary Full-Time
 "Team Manager, FHC",Family Hospice Care,"Palm Springs, California",Full-Time
 "Telehealth Case Manager ($2,000 SIGN ON BONUS)",Home Health,"Palm Springs, California",Full-Time
 Transitional Care Specialty Nurse,ACO,"Palm Springs, California",Full-Time
