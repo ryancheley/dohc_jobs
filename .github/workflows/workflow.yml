@@ -18,7 +18,8 @@ jobs:
         ref: main
     - name: install chrome
       run: |
-        sudo apt-get install chromium-chromedriver
+        sudo apt update
+        sudo apt install chromium-chromedriver
         export PATH=$PATH:/usr/lib/chromium-browser/
     - name: Set up Python 3.9
       uses: actions/setup-python@v1
