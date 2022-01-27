@@ -1,8 +1,7 @@
 Title,Department,Location,Status
 Human Resources Manager,Human Resources,"Palm Springs, California",Full-Time
 Accounts Receivable Specialist,Billing,"Palm Desert, California",Full-Time
-Admissions Coordinator,Home Health,"Palm Springs, California",Per Diem
-"Associate Director, Immediate Care",Immediate Care,"Palm Springs, California",Full-Time
+Admissions Coordinator - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Home Health Aide - Per Diem,Home Health,"Palm Springs, California",Per Diem
 Certified Medical Assistant,Behavioral Health,"Palm Springs, California",Full-Time
@@ -15,7 +14,6 @@ Certified Medical Assistant (CMA) - YV,Primary Care,"Yucca Valley, California",F
 Certified Medical Assistant (CMA) Temp FT - BD,Primary Care,"Palm Springs, CA",Temporary Full-Time
 Certified Medical Assistant (PD),Specialty,"Palm Desert, California",Full-Time
 Certified Medical Assistant (RM),Specialty,"Rancho Mirage, California",Full-Time
-Certified Medical Assistant - BD,Primary Care,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant - Per Diem (PS),Outreach Services,"Palm Springs, California",Per Diem
 Certified Medical Assistant - Per Diem (PS),Priority Care,"Yucca Valley, California",Per Diem
 Certified Medical Assistant - PS,Immediate Care,"Palm Springs, California",Per Diem
@@ -27,18 +25,17 @@ Certified Medical Assistant -Per Diem - PS,Immediate Care,"Palm Springs, Califor
 Claims Clerk I,Claims,"Palm Desert, California",Full-Time
 Clinic Assistant,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
 "Clinical Liaison, Home Health",Home Health,"Palm Springs, California",Full-Time
+Clinical Manager,Home Health,"Palm Springs, California",Full-Time
 Clinical Pharmacist,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
 Clinical Research Assistant,Clinical Research,"Palm Springs, California",Full-Time
 Compliance Coordinator,Quality Management,"Palm Springs, California",Part-Time
 Customer Service Coordinator,Quality Management,"Palm Springs, California",Full-Time
 Developer Programmer,Information Services,"Palm Springs, California",Full-Time
 Discharge Planning Coordinator,Case Management,"Palm Springs, California",Full-Time
-Discharge Planning Coordinator (4/10 hour shifts),Case Management,"Palm Springs, California",Per Diem
 Discharge Planning Coordinator (4/10 hour shifts),Case Management,"Palm Springs, California",Full-Time
+Discharge Planning Coordinator (4/10 hour shifts),Case Management,"Palm Springs, California",Per Diem
 Health Plan Auditor I,Eligibility,"Palm Desert, California",Full-Time
 HIM Correspondence Coordinator,Health Information Services,"Palm Springs, California",Full-Time
-HIM Technician,Health Information Services,"Palm Springs, California",Full-Time
-HIM Technician,Health Information Services,"Palm Springs, California",Full-Time
 Housekeeper - YV,Primary Care,"Yucca Valley, California",Part-Time
 Housekeeper - YV,Primary Care,"Yucca Valley, California",Part-Time
 "Immediate Care, Clinical Manager ($5,000 SIGN ON BONUS)",Immediate Care,"Palm Springs, California",Full-Time
@@ -51,6 +48,7 @@ LVN Triage,Family Hospice Care,"Palm Springs, California",Full-Time
 "LVN, Case Manager SNF (Per Diem)",Case Management,"Palm Springs, California",Per Diem
 "LVN, Intense Case Manager (*$2,500 Sign On Bonus)",Social Services,"Palm Springs, California",Full-Time
 "LVN, Intense Case Manager (*$2,500 Sign On Bonus)",Social Services,"Palm Springs, California",Full-Time
+Nurse Practitioner,Home Health,"Palm Springs, California",Full-Time
 Patient Care Coordinator,Clinical Services,"Palm Springs, California",Full-Time
 Patient Coordinator - Per Diem,Seniors Only Evaluation Clinic,"Palm Springs, California",Per Diem
 Patient Coordinator Intern,Telephonic Case Mgmt,"Palm Springs, California",Temporary Full-Time
@@ -61,12 +59,13 @@ Physician Assistant,Outreach Services,"Palm Springs, California",Full-Time
 Provider Database Specialist I,Claims,"Palm Desert, California",Full-Time
 Receptionist,Immediate Care,"Palm Springs, California",Per Diem
 Receptionist,Immediate Care,"Yucca Valley, California",Per Diem
+Receptionist Scheduler,Seniors Only Evaluation Clinic,"Palm Springs, California",Full-Time
+Receptionist Scheduler,Patient Services,"Palm Springs, California",Full-Time
 Receptionist Scheduler,Clinical Admin,"Palm Springs, California",Temporary Full-Time
 Receptionist Scheduler,PHARXM Population Health Prescription Mgt,"Palm Springs, California",Full-Time
-Receptionist Scheduler,Patient Services,"Palm Springs, California",Full-Time
 "Receptionist Scheduler, TEMP (PS)",Patient Services,"Palm Springs, California",Temporary Full-Time
-Referral Coordinator,Referrals,"Palm Springs, California",Full-Time
 Referral Coordinator,Primary Care,"Yucca Valley, California",Full-Time
+Referral Coordinator,Referrals,"Palm Springs, California",Full-Time
 "Registered Nurse, Infusion ($5,000 SIGN ON BONUS)",Nursing,"Palm Springs, California",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Part-Time
 "RN Case Manager ($5,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
