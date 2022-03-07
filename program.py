@@ -6,7 +6,6 @@ import pandas as pd
 
 chrome_options = Options()  
 chrome_options.add_argument("--headless")
-chrome_options.set_capability("browserVersion", "99")
 
 driver = webdriver.Chrome(options=chrome_options)
 
