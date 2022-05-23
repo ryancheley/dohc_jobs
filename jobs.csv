@@ -1,4 +1,5 @@
 Title,Department,Location,Status
+Admissions Coordinator-FHC,Family Hospice Care,"Palm Springs, California",Full-Time
 Behavioral Health Telephonic Case Manager,Social Services,"Palm Springs, California",Full-Time
 "Case Manager III or IV , Social Services",Social Services,"Yucca Valley, California",Full-Time
 Certified Home Health Aide - FHC,Family Hospice Care,"Palm Springs, California",Full-Time
@@ -69,6 +70,8 @@ Receptionist Scheduler,Cardiology,"Palm Springs, California",Full-Time
 Receptionist Scheduler - TEMP/FT - PS,Clinical Admin,"Palm Springs, California",Temporary Full-Time
 Referral Distributor Technician II,Referrals,"Palm Springs, California",Full-Time
 "Registered Nurse ($5,000 SIGN ON BONUS)",Immediate Care,"Palm Springs, California",Full-Time
+Registered Nurse (Indio Immediate Care) (PD),Immediate Care,"Indio, California",Per Diem
+Registered Nurse (PS Immediate Care) (PD),Immediate Care,"Palm Springs, California",Per Diem
 "RN Admissions Visits ($5,000 SIGN ON BONUS)",Family Hospice Care,"Palm Springs, California",Full-Time
 "RN Case Manager ($5,000 SIGN ON BONUS)",Case Management,"Palm Springs, California",Full-Time
 "RN Case Manager ($5,000 Sign On Bonus)",Case Management,"Palm Springs, California",Full-Time
@@ -96,5 +99,3 @@ Staff Accountant,Finance,"Palm Desert, California",Full-Time
 Tech Support Specialist I,MIS,"Palm Springs, California",Full-Time
 "Telehealth Case Manager *($5,000 SIGN ON BONUS)*",Home Health,"Palm Springs, California",Full-Time
 "Transitional Care Specialty Nurse *($2,500 sign on bonus)*",ACO,"Palm Springs, California",Full-Time
-Unit Coordinator - Per Diem,Immediate Care,"Palm Springs, California",Per Diem
-Unit Coordinator - PS,Immediate Care,"Palm Springs, California",Full-Time
