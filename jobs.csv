@@ -1,18 +1,20 @@
 Title,Department,Location,Status
 Care Coordinator - Indio (Temp),Immediate Care,"Indio, California",Temporary Full-Time
 Certified Home Health Aide- CHHA,Family Hospice Care,"Palm Springs, California",Per Diem
+Certified Home Health Aide- CHHA,Family Hospice Care,"Palm Springs, CA",Full-Time
 Certified Medical Assistant (BD),Primary Care,"Bermuda Dunes, California",Full-Time
-Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Temporary Full-Time
+Certified Medical Assistant (BD),Nursing,"Bermuda Dunes, California",Full-Time
 Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Infusion/Injection Clinic,"Palm Springs, California",Full-Time
-Certified Medical Assistant (PS),Outreach Services,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Cardiology,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Infusion/Injection Clinic,"Palm Springs, California",Full-Time
-Certified Medical Assistant (PS),Specialty,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Cardiology,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Specialty,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Outreach Services,"Palm Springs, California",Full-Time
 Certified Medical Assistant (Temecula),Outreach Services,"Temecula, California",Full-Time
 Certified Medical Assistant (Temecula),Outreach Services,"Temecula, California",Full-Time
 Certified Medical Assistant (YV),Primary Care,"Yucca Valley, California",Full-Time
+Certified Medical Assistant-Temp (PS),Primary Care,"Palm Springs, California",Temporary Full-Time
 Claims Examiner I,Claims,"Palm Springs, California",Full-Time
 Clinical Pharmacist (Part-Time),PHARXM Population Health Rx Mgt,"Palm Springs, CA",Part-Time
 Contracting Assistant,Contracting,"Palm Springs, CA",Full-Time
@@ -41,18 +43,18 @@ Registered Dietitian,Health Education,"Palm Springs, California",Full-Time
 Registered Nurse Infusion,Specialty,"Palm Desert, California",Full-Time
 RN Admissions/Visits,Family Hospice Care,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
-RN Case Manager,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
+RN Case Manager,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Quality Manager,Home Health,"Palm Springs, California",Full-Time
-RN Triage,Family Hospice Care,"Palm Springs, California",Full-Time
 "RN, Admissions/Visits",Home Health,"Palm Springs, CA",Full-Time
 "RN, Clinical Manager Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
 "RN, Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
 "RN, Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
 "RN, Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
+"RN, Palliative Case Manager",Family Hospice Care,"Palm Springs, CA",Full-Time
 "RN, Telehealth Case Manager (Onsite)",Home Health,"Palm Springs, California",Full-Time
 RN/LVN SNF Case Manager,Care Management,"Palm Springs, California",Full-Time
-SNF Case Manager (RN or LVN),Care Management,"Palm Springs, California",Full-Time
+RN/LVN SNF Case Manager,Care Management,"Palm Springs, California",Full-Time
 SNP Telephonic Case Manager I,Quality and Compliance,"Palm Springs, California",Full-Time
 Social Services Case Manager I,Social Services,"Palm Springs, California",Full-Time
 Social Services Case Manager III,Social Services,"Palm Springs, California",Full-Time
@@ -61,4 +63,4 @@ Special Projects Coordinator,Case Management,"Palm Springs, California",Full-Tim
 "Specialist, Tech Support I",MIS,"Palm Springs, CA",Full-Time
 Support Assistant,NextGen,"Palm Springs, California",Full-Time
 Talent Acquisition Specialist,Human Resources,"Palm Springs, California",Full-Time
-Unit Coordinator - Per Deim (PD),Immediate Care,"Palm Desert, California",Per Diem
+Unit Coordinator - Per Diem (PD),Immediate Care,"Palm Desert, California",Per Diem
