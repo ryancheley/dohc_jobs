@@ -1,28 +1,32 @@
 Title,Department,Location,Status
 Care Coordinator - Indio (Temp),Immediate Care,"Indio, California",Temporary Full-Time
-"Case Manager, RN",Family Hospice Care,"Palm Springs, CA",Full-Time
 Certified Home Health Aide- CHHA,Family Hospice Care,"Palm Springs, California",Per Diem
-Certified Medical Assistant (PS),Specialty,"Palm Springs, California",Full-Time
+Certified Medical Assistant (BD),Primary Care,"Bermuda Dunes, California",Full-Time
+Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Temporary Full-Time
+Certified Medical Assistant (PS),Primary Care,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Infusion/Injection Clinic,"Palm Springs, California",Full-Time
-Certified Medical Assistant (PS),Cardiology,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Outreach Services,"Palm Springs, California",Full-Time
 Certified Medical Assistant (PS),Cardiology,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Infusion/Injection Clinic,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Specialty,"Palm Springs, California",Full-Time
+Certified Medical Assistant (PS),Cardiology,"Palm Springs, California",Full-Time
 Certified Medical Assistant (Temecula),Outreach Services,"Temecula, California",Full-Time
 Certified Medical Assistant (Temecula),Outreach Services,"Temecula, California",Full-Time
+Certified Medical Assistant (YV),Primary Care,"Yucca Valley, California",Full-Time
 Claims Examiner I,Claims,"Palm Springs, California",Full-Time
 Clinical Pharmacist (Part-Time),PHARXM Population Health Rx Mgt,"Palm Springs, CA",Part-Time
-Community Outreach Specialist,Marketing,"Palm Springs, California",Full-Time
-Contract Clerk,Contracting,"Palm Springs, CA",Full-Time
+Contracting Assistant,Contracting,"Palm Springs, CA",Full-Time
 Contracts Specialist,Contracting,"Palm Springs, California (onsite)",Full-Time
 Cybersecurity Compliance Analyst,MIS,"Palm Springs, California",Full-Time
 Digital Communications Specialist,Case Management,"Palm Springs, California",Full-Time
 Director of Contracting,Contracting,"Palm Springs, California",Full-Time
+Echocardiogram Technician,Cardiology,"Palm Springs, California",Full-Time
 Field LVN,Home Health,"Palm Springs, California",Full-Time
 Health Plan Auditor I,Eligibility,"Palm Desert, California",Full-Time
 Help Desk Support Coordinator,MIS,"Palm Springs, California",Full-Time
 IC Clinical Operations Manager,Immediate Care,"Indio, California",Full-Time
 Inventory Coordinator,Materials Management,"Palm Springs, California",Full-Time
-Licensed Mental Health Clinician - Per Diem,Behavioral Health,"Palm Springs, California",Per Diem
+Licensed Mental Health Clinician,Behavioral Health,"Palm Springs, California",Full-Time
 "LVN, Field",Home Health,"Palm Springs, California",Full-Time
 "LVN, Field- Per Diem",Home Health,"Palm Springs, California",Per Diem
 Network Security Administrator,MIS,"Palm Springs, California",Full-Time
@@ -37,8 +41,8 @@ Registered Dietitian,Health Education,"Palm Springs, California",Full-Time
 Registered Nurse Infusion,Specialty,"Palm Desert, California",Full-Time
 RN Admissions/Visits,Family Hospice Care,"Palm Springs, California",Full-Time
 RN Case Manager,Case Management,"Palm Springs, California",Full-Time
+RN Case Manager,Family Hospice Care,"Palm Springs, CA",Full-Time
 RN Case Manager,Home Health,"Palm Springs, California",Full-Time
-RN On Call Weekends,Home Health,"Palm Springs, California",Full-Time
 RN Quality Manager,Home Health,"Palm Springs, California",Full-Time
 RN Triage,Family Hospice Care,"Palm Springs, California",Full-Time
 "RN, Admissions/Visits",Home Health,"Palm Springs, CA",Full-Time
@@ -47,6 +51,7 @@ RN Triage,Family Hospice Care,"Palm Springs, California",Full-Time
 "RN, Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
 "RN, Immediate Care (PS)",Immediate Care,"Palm Springs, California",Full-Time
 "RN, Telehealth Case Manager (Onsite)",Home Health,"Palm Springs, California",Full-Time
+RN/LVN SNF Case Manager,Care Management,"Palm Springs, California",Full-Time
 SNF Case Manager (RN or LVN),Care Management,"Palm Springs, California",Full-Time
 SNP Telephonic Case Manager I,Quality and Compliance,"Palm Springs, California",Full-Time
 Social Services Case Manager I,Social Services,"Palm Springs, California",Full-Time
@@ -57,4 +62,3 @@ Special Projects Coordinator,Case Management,"Palm Springs, California",Full-Tim
 Support Assistant,NextGen,"Palm Springs, California",Full-Time
 Talent Acquisition Specialist,Human Resources,"Palm Springs, California",Full-Time
 Unit Coordinator - Per Deim (PD),Immediate Care,"Palm Desert, California",Per Diem
-Unit Coordinator- Per Diem (YV),Immediate Care,"Yucca Valley, California",Per Diem
